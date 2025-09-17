@@ -1,6 +1,6 @@
-# 💫 About Me:
+# 🌟 About Me:
 
-🔭  I’m currently working on:
+🌪 I’m currently working on:
 
 React Projects
 
