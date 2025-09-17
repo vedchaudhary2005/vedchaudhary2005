@@ -5,9 +5,11 @@
 React Projects
 
 👯 I’m looking to collaborate on:
+
 Fullstack projects
 
 💬 Ask me about:
+
 Javascript,ReactJs,NextJs and any general software development questions.
 
 # 🌐 Socials:
