@@ -1,5 +1,4 @@
 # 💫 About Me:
----
 
 🔭  I’m currently working on:
 React Projects
@@ -11,14 +10,12 @@ Fullstack projects
 Javascript,ReactJs,NextJs and any general software development questions.
 
 # 🌐 Socials:
----
-## 🌐 Socials:
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ved-chaudhary-179343352/) 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/your-username/) 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://vedportfolioo.netlify.app/) 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/CodexVelocity_) 
 
----
 # 💻 Tech Stack:
 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -35,7 +32,6 @@ Javascript,ReactJs,NextJs and any general software development questions.
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 
----
 
 # 📊 GitHub Stats:
 
@@ -43,4 +39,3 @@ Javascript,ReactJs,NextJs and any general software development questions.
 ![](https://github-readme-streak-stats.herokuapp.com/?user=vedchaudhary2005&theme=radical&hide_border=false)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vedchaudhary2005&theme=radical&hide_border=false&layout=compact)
 
----
