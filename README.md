@@ -36,7 +36,7 @@ Javascript,ReactJs and any general software development questions.
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 [![TanStack](https://img.shields.io/badge/TanStack-FF4154.svg?style=for-the-badge&logo=reactquery&logoColor=white)](https://tanstack.com/)
-![MySql](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=purple)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 # 📊 GitHub Stats:
 
