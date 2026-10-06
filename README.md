@@ -238,7 +238,7 @@ Allahabad State University · 2023–2026
 <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://vedportfolioo.netlify.app/">
+<a href="https://https://veddportfolio.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-000000.svg?style=for-the-badge&logo=firefox&logoColor=white"/>
 </a>
 
