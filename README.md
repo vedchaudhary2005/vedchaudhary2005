@@ -1,14 +1,8 @@
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&customColorList=2%2C2%2C5%2C9%2C15&text=Ved%20Chaudhary&fontSize=55&animation=fadeIn&fontAlignY=35&desc=GenAI%20Engineer&descSize=20&descAlignY=55&fontColor=fff">
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&customColorList=2%2C2%2C5%2C9%2C15&text=Ved%20Chaudhary&fontSize=55&animation=fadeIn&fontAlignY=35&desc=GenAI%20Engineer&descSize=20&descAlignY=55&fontColor=1f2328">
   <img
     width="100%"
     alt="Ved Chaudhary, GenAI Engineer"
-    src="https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&customColorList=2%2C2%2C5%2C9%2C15&text=Ved%20Chaudhary&fontSize=55&animation=fadeIn&fontAlignY=35&desc=GenAI%20Engineer&descSize=20&descAlignY=55&fontColor=1f2328">
+    src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Ved%20Chaudhary&fontSize=55&fontFamily=Space%20Grotesk&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=GenAI%20Engineer&descSize=20&descAlignY=58&color=0:0F172A,50:312E81,100:7C3AED">
 </picture>
 
 <p align="center">
@@ -80,17 +74,6 @@ Where I'm currently going deeper:
 | **LLM Applications** | Prompting, context management and reliable responses |
 | **AI Backend** | FastAPI, streaming and scalable API workflows |
 | **Vector Databases** | Qdrant, ChromaDB and semantic retrieval |
-
----
-
-# 🛣️ The Journey
-
-| Years | Focus | Proof |
-|:------|:------|:------|
-| **2023–2024** | Full-Stack Development | React · Node.js · MongoDB · REST APIs |
-| **2024–2025** | AI & LLM Applications | Gemini · AI APIs · LLM integrations |
-| **2025–Present** | GenAI & RAG | LangChain · RAG · Qdrant · FastAPI |
-| **2026–Present** | Agentic AI | LangGraph · Tool Calling · AI Workflows |
 
 ---
 
