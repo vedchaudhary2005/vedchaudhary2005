@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://github.com/vedchaudhary2005">
-    <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=20&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&repeat=true&width=500&lines=GenAI+Engineer;RAG+Developer;Agentic+AI+Developer;LangGraph+%26+LangChain;LLM+Application+Developer;AI+%26+Backend+Developer" alt="GenAI Engineer · RAG Developer · Agentic AI Developer" />
+    <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=20&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&repeat=true&width=500&lines=GenAI+Engineer;RAG+Developer;Agentic+AI+Developer;LangGraph+%26+LiteLLM;LLM+Application+Developer;AI+%26+Backend+Developer" alt="GenAI Engineer · RAG Developer · Agentic AI Developer" />
   </a>
 </p>
 
@@ -27,7 +27,7 @@
 
 <p align="center">
   <sub>
-    Building practical AI applications · RAG · Agentic AI · LLM Applications
+    Building practical AI applications · RAG · Agentic AI · LiteLLM · Google ADK
   </sub>
 </p>
 
@@ -37,13 +37,13 @@
 
 I build practical **Generative AI applications** that connect LLMs with real-world data, tools, APIs, and backend systems.
 
-My current focus is on **RAG pipelines, agentic AI workflows, LangChain, LangGraph, embeddings, vector databases, and AI-powered backend applications** using Python and FastAPI.
+My current focus is on **RAG pipelines, agentic AI workflows, LangChain, LangGraph, LiteLLM integration, Google ADK, embeddings, vector databases, and AI-powered backend applications** using Python and FastAPI.
 
 | Focus area | Working with |
 |:-----------|:-------------|
-| **Generative AI** | `LLMs` `Gemini` `Groq` `Prompt Engineering` |
-| **RAG & Retrieval** | `LangChain` `Embeddings` `Qdrant` `ChromaDB` |
-| **Agentic AI** | `LangGraph` `Tool Calling` `Conditional Workflows` |
+| **Generative AI** | `LLMs` `Gemini` `Groq` `LiteLLM` `Google ADK` `Prompt Engineering` |
+| **RAG & Retrieval** | `LangChain` `Embeddings` `Qdrant` `ChromaDB` `LiteLLM Proxy` |
+| **Agentic AI** | `LangGraph` `Tool Calling` `Conditional Workflows` `Multi-Agent Systems` |
 | **AI Backend** | `Python` `FastAPI` `REST APIs` `Streaming` |
 | **Databases** | `MongoDB` `MySQL` `SQL` |
 | **Web Development** | `React` `Node.js` `Express.js` `Tailwind CSS` |
@@ -54,12 +54,12 @@ My current focus is on **RAG pipelines, agentic AI workflows, LangChain, LangGra
 
 AI-powered applications around:
 
-- **Retrieval-Augmented Generation (RAG)**
-- **Agentic AI workflows**
-- **LLM tool calling**
-- **Conversational AI**
-- **Vector search and embeddings**
-- **AI-powered backend APIs**
+- **Retrieval-Augmented Generation (RAG)** with multi-model routing via **LiteLLM**
+- **Agentic AI workflows** and multi-agent coordination using **Google ADK** & LangGraph
+- **LLM tool calling** and unified API gateways
+- **Conversational AI** with persistent state management
+- **Vector search and semantic embeddings**
+- **AI-powered scalable backend APIs**
 
 ---
 
@@ -69,11 +69,11 @@ Where I'm currently going deeper:
 
 | Area | Focus |
 |:-----|:------|
-| **RAG** | Retrieval quality, chunking, embeddings, vector search |
-| **Agentic AI** | State, nodes, edges, routing and tool execution |
-| **LLM Applications** | Prompting, context management and reliable responses |
-| **AI Backend** | FastAPI, streaming and scalable API workflows |
-| **Vector Databases** | Qdrant, ChromaDB and semantic retrieval |
+| **RAG** | Retrieval quality, advanced chunking, hybrid search, and multi-provider model switching via **LiteLLM** |
+| **Agentic AI** | State graphs, nodes, edges, routing, tool execution, and **Google ADK** patterns |
+| **LLM Applications** | Advanced prompt engineering, context management, streaming, and reliable response generation |
+| **AI Backend** | FastAPI, asynchronous processing, streaming responses, and scalable API architecture |
+| **Vector Databases** | Qdrant, ChromaDB, and high-performance semantic retrieval |
 
 ---
 
@@ -87,11 +87,11 @@ AI-powered document question-answering application that processes uploaded PDFs,
 
 **Pipeline**
 
-`PDF → Text Extraction → Chunking → Embeddings → Qdrant → Retrieval → LLM`
+`PDF → Text Extraction → Chunking → Embeddings → Qdrant → Retrieval → LiteLLM / LLM`
 
 **Stack**
 
-`Python` `FastAPI` `LangChain` `RAG` `Gemini` `Qdrant` `React`
+`Python` `FastAPI` `LangChain` `RAG` `LiteLLM` `Gemini` `Qdrant` `React`
 
 🔗 **Live:** https://ragpdfgen.vercel.app/  
 🔗 **Repository:** https://github.com/vedchaudhary2005/RAG-PDF
@@ -102,23 +102,22 @@ AI-powered document question-answering application that processes uploaded PDFs,
 
 **Agentic AI Assistant**
 
-Conversational AI application built using LangGraph to manage state, conditional workflows, tool calling and external web search.
+Conversational AI application built using LangGraph and **LiteLLM** gateway integration to manage state, multi-provider model calls, conditional workflows, and external web search.
 
 **Pipeline**
 
-`User → LangGraph → LLM → Tool Decision → Search / Response → Streaming`
+`User → LangGraph → LiteLLM Proxy → LLM → Tool Decision → Search / Response → Streaming`
 
 **Stack**
 
-`Python` `FastAPI` `LangGraph` `LangChain` `Gemini` `Tavily` `MongoDB`
+`Python` `FastAPI` `LangGraph` `LangChain` `LiteLLM` `Google ADK` `Gemini` `Tavily` `MongoDB`
 
 **Key Features**
 
-- Stateful conversations
-- Conditional graph routing
-- Tool calling
-- Web search integration
-- Streaming responses
+- Stateful multi-step conversations
+- Conditional graph routing & agent orchestration
+- Unified third-party LLM integration using **LiteLLM**
+- Dynamic tool calling & web search integration
 - Persistent conversation history
 
 🔗 **Live:** https://langgraphai.vercel.app/  
@@ -141,11 +140,11 @@ Full-stack real-time communication platform supporting authentication, messaging
 
 ### 🤖 Gemini AI Assistant
 
-AI-powered conversational assistant integrating Google's Gemini API with a web-based interface and voice interaction features.
+AI-powered conversational assistant integrating Google's Gemini API and multi-model support with a web-based interface and voice interaction features.
 
 **Stack**
 
-`React` `Node.js` `Express.js` `MongoDB` `Gemini API`
+`React` `Node.js` `Express.js` `MongoDB` `Gemini API` `LiteLLM` `Google ADK`
 
 🔗 **Live:** https://geminiipro.vercel.app/signin  
 🔗 **Repository:** https://github.com/vedchaudhary2005/Gemini
@@ -158,6 +157,8 @@ AI-powered conversational assistant integrating Google's Gemini API with a web-b
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge)
+![LiteLLM](https://img.shields.io/badge/LiteLLM-FF4500?style=for-the-badge)
+![Google ADK](https://img.shields.io/badge/Google_ADK-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-6A5ACD?style=for-the-badge)
 ![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge)
@@ -238,7 +239,7 @@ Allahabad State University · 2023–2026
 <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://https://veddportfolio.vercel.app/">
+<a href="https://veddportfolio.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-000000.svg?style=for-the-badge&logo=firefox&logoColor=white"/>
 </a>
 
@@ -249,5 +250,5 @@ Allahabad State University · 2023–2026
 </p>
 
 <p align="center">
-  <b>Building practical AI applications with LLMs, RAG and Agentic AI.</b>
+  <b>Building practical AI applications with LLMs, RAG, Agentic AI & LiteLLM.</b>
 </p>
